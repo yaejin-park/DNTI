@@ -55,5 +55,8 @@
     <td align="center">
       <a href="https://www.figma.com/file/vexfbavhxL2xmrL4A1w6SO/A601?node-id=0%3A1">🎨 Figma</a>
     </td>
+    <td align="center">
+      <a href="exec/Readme.md">⛳ 포팅매뉴얼</a>
+    </td>
 </tbody>
 <table>
